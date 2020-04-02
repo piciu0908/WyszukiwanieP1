@@ -1,0 +1,13 @@
+F:\Szkola\Programy\WyszukiwanieP1\WyszukiwanieP1\bin\Debug\netcoreapp3.1\WyszukiwanieP1.exe
+F:\Szkola\Programy\WyszukiwanieP1\WyszukiwanieP1\bin\Debug\netcoreapp3.1\WyszukiwanieP1.deps.json
+F:\Szkola\Programy\WyszukiwanieP1\WyszukiwanieP1\bin\Debug\netcoreapp3.1\WyszukiwanieP1.runtimeconfig.json
+F:\Szkola\Programy\WyszukiwanieP1\WyszukiwanieP1\bin\Debug\netcoreapp3.1\WyszukiwanieP1.runtimeconfig.dev.json
+F:\Szkola\Programy\WyszukiwanieP1\WyszukiwanieP1\bin\Debug\netcoreapp3.1\WyszukiwanieP1.dll
+F:\Szkola\Programy\WyszukiwanieP1\WyszukiwanieP1\bin\Debug\netcoreapp3.1\WyszukiwanieP1.pdb
+F:\Szkola\Programy\WyszukiwanieP1\WyszukiwanieP1\obj\Debug\netcoreapp3.1\WyszukiwanieP1.csprojAssemblyReference.cache
+F:\Szkola\Programy\WyszukiwanieP1\WyszukiwanieP1\obj\Debug\netcoreapp3.1\WyszukiwanieP1.csproj.CoreCompileInputs.cache
+F:\Szkola\Programy\WyszukiwanieP1\WyszukiwanieP1\obj\Debug\netcoreapp3.1\WyszukiwanieP1.AssemblyInfoInputs.cache
+F:\Szkola\Programy\WyszukiwanieP1\WyszukiwanieP1\obj\Debug\netcoreapp3.1\WyszukiwanieP1.AssemblyInfo.cs
+F:\Szkola\Programy\WyszukiwanieP1\WyszukiwanieP1\obj\Debug\netcoreapp3.1\WyszukiwanieP1.dll
+F:\Szkola\Programy\WyszukiwanieP1\WyszukiwanieP1\obj\Debug\netcoreapp3.1\WyszukiwanieP1.pdb
+F:\Szkola\Programy\WyszukiwanieP1\WyszukiwanieP1\obj\Debug\netcoreapp3.1\WyszukiwanieP1.genruntimeconfig.cache

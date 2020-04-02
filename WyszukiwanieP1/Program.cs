@@ -266,7 +266,7 @@ namespace Algorytm_zlozonosci_obliczeniowej
                             Program.BS(tablica, -1);
                             stoper.Stop();
                             wynik = stoper.ElapsedTicks;
-                            Console.WriteLine("{0},{1}", wynik, i);
+                            Console.WriteLine("{0};{1}", wynik, i);
                         }
 
                         break;
@@ -275,15 +275,15 @@ namespace Algorytm_zlozonosci_obliczeniowej
                     {
                         Console.WriteLine("Szukanie liniowe------czas-------Szukanie liniowe--------czas-----------Szukanie liniowe---------czas------------Szukanie liniowe--");
 
-                        for (int i = 0; i < Math.Pow(2, 28); i += 7000000)
+                        for (int i = 2000000; i < Math.Pow(2, 28); i += 7000000)
                         {
                             int[] tablica = new int[i];
                             stoper.Reset();
                             stoper.Start();
                             Program.LS(tablica, -1);
                             stoper.Stop();
-                            wynik = stoper.ElapsedMilliseconds;
-                            Console.WriteLine("{0},{1}", wynik, i);
+                            wynik = stoper.ElapsedTicks;
+                            Console.WriteLine("{0};{1}", wynik, i);
                         }
 
                         break;
@@ -310,7 +310,7 @@ namespace Algorytm_zlozonosci_obliczeniowej
 
                             }
                             cnt = 1900000;
-                            Console.WriteLine("{0:0.##}/{1}", wynik / cnt, i);
+                            Console.WriteLine("{0:0.##};{1}", wynik / cnt, i);
                         }
 
 
@@ -331,7 +331,7 @@ namespace Algorytm_zlozonosci_obliczeniowej
                             wynik = Porownaj;
                             cnt++;
                             suma += wynik;
-                            Console.WriteLine("{0},{1}", wynik, i);
+                            Console.WriteLine("{0};{1}", wynik, i);
                         }
                         Console.WriteLine("Sredni wynik porownan {0:0.##} ", suma / cnt);
                         break;
@@ -349,7 +349,7 @@ namespace Algorytm_zlozonosci_obliczeniowej
 
                             Program.BSINST(tablica, -1);
 
-                            Console.WriteLine("{0},{1}", Porownaj, i);
+                            Console.WriteLine("{0};{1}", Porownaj, i);
                         }
 
                         break;
@@ -365,7 +365,7 @@ namespace Algorytm_zlozonosci_obliczeniowej
                             Program.Fill(tablica);
                             Program.LSINST(tablica, -1);
 
-                            Console.WriteLine("{0}/{1}", Porownaj, i);
+                            Console.WriteLine("{0};{1}", Porownaj, i);
                         }
                         break;
                     }
